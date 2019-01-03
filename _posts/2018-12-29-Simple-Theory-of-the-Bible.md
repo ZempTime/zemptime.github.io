@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Simple Theory of the Bible
----
 
+---
 The Bible is the story of you told from a third-person perspective. You are God - you consist of the body, the mind, and the spirit. You are the observer, the actor, and the camera.
 
 Rather than a set of literal stories which have happened (although they likely have some basis in reality), the Bible serves as a map of the human mind and journey in narrative form. The Bible is a tool, and this vantage point is it's intended use.
@@ -15,7 +15,7 @@ Jesus is you. Jesus is the avatar you continually create in the video game of ex
 
 ## What are miracles?
 
-All of a sudden, miracles like "walking on water" make sense. Of _course_ you're going to sound like a badass in your own story! (Turning water into wine = party move!?)
+All of a sudden, miracles like "walking on water" make sense. Of _course_ you're going to sound like a badass in your own story! (Turning water into wine = party move!?) No wonder he was invited to everything!
 
 What walking on water is is the idea that you can become better than you think you are. Which is the hardest part of any major change: committing to the idea that it's possible.
 
@@ -35,7 +35,7 @@ In this sense, all religious texts are derived from the same source material. Th
 
 ## Why this is a good theory, and how to test it
 
-Outlined above is the basis of a theory. 
+Outlined above is the basis of a theory.
 
 **What makes a good theory:** A theory can explain something and make predictions where, when you vary parts of the theory, the predictions indicated by the theory change. The harder a theory is to vary, the better it is. Prediction is knowledge. Theories make predictions. Theories create knowledge.
 
